@@ -3,11 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Welcome%20to%20My%20Digital%20Universe&fontSize=35&fontAlign=50&fontAlignY=35&desc=Where%20Innovation%20Meets%20Passion%20%7C%20AI%20%2B%20Nature%20%2B%20Gaming&descAlign=50&descAlignY=55&animation=fadeIn" alt="Header"/>
 </div>
 
-<!-- Matrix Rain Effect -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=12&duration=1000&pause=100&color=00FF00&center=true&vCenter=true&random=true&width=1000&height=50&lines=01001000+01100101+01101100+01101100+01101111+00100000+01010111+01101111+01110010+01101100+01100100;01000001+01001001+00100000+01001001+01101110+01101110+01101111+01110110+01100001+01110100+01101001+01101111+01101110;01000100+01101001+01100111+01101001+01110100+01100001+01101100+00100000+01010100+01110010+01100001+01101110+01110011;01000101+01101110+01100111+01101001+01101110+01100101+01100101+01110010+01101001+01101110+01100111+00100000+01000110" alt="Matrix Effect" />
-</div>
-
 <!-- Enhanced Typing Animation with Glitch Effect -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=800&color=2196F3&center=true&vCenter=true&multiline=true&random=false&width=900&height=200&lines=👋+Hi%2C+I'm+Amit+Jha+%40Amit-jha98;💻+B.Tech+CSE+%7C+Full+Stack+Developer;🤖+AI%2FML+Engineer+%7C+;🎮+Game+AI+Developer;🚀+Building+the+Future+with+Code;✨+Transforming+Ideas+into+Reality!" alt="Typing SVG" />
@@ -239,8 +234,10 @@
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=FF9900" alt="AWS"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Vercel"/>
 </div>
-
----
+<!-- Matrix Rain Effect -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=12&duration=1000&pause=100&color=00FF00&center=true&vCenter=true&random=true&width=1000&height=50&lines=01001000+01100101+01101100+01101100+01101111+00100000+01010111+01101111+01110010+01101100+01100100;01000001+01001001+00100000+01001001+01101110+01101110+01101111+01110110+01100001+01110100+01101001+01101111+01101110;01000100+01101001+01100111+01101001+01110100+01100001+01101100+00100000+01010100+01110010+01100001+01101110+01110011;01000101+01101110+01100111+01101001+01101110+01100101+01100101+01110010+01101001+01101110+01100111+00100000+01000110" alt="Matrix Effect" />
+</div>
 
 ## 📊 GitHub Stats & Activity
 
