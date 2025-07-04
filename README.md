@@ -5,7 +5,7 @@
 
 <!-- Enhanced Typing Animation with Glitch Effect -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=800&color=2196F3&center=true&vCenter=true&multiline=true&random=false&width=900&height=200&lines=👋+Hi%2C+I'm+Amit+Jha+%40Amit-jha98;💻+B.Tech+CSE+%7C+Full+Stack+Developer;🤖+AI%2FML+Engineer+%7C+;🎮+Game+AI+Developer;🚀+Building+the+Future+with+Code;✨+Transforming+Ideas+into+Reality!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=800&color=2196F3&center=true&vCenter=true&multiline=true&random=false&width=900&height=200&lines=👋+Hi%2C+I'm+Amit+Jha+%40Amit-jha98;💻+B.Tech+CSE+%7C+Full+Stack+Developer;🤖+AI%2FML+Engineer;🎮+Game+AI+Developer;🚀+Building+the+Future+with+Code;✨+Transforming+Ideas+into+Reality!" alt="Typing SVG" />
 </div>
 
 <!-- Animated Particles Background -->
@@ -21,12 +21,12 @@
 
 <!-- Animated Snake with GitHub Contributions -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Amit-jha98/Amit-jha98/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 <!-- Floating Tech Icons Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=800&lines=🔥+Powered+by+React+%7C+Node.js+%7C+Python+%7C+TensorFlow;⚡+Enhanced+with+AI+%7C+IoT+%7C+Blockchain+%7C+Game+Dev;🚀+Deployed+on+Cloud+%7C+Optimized+for+Performance" alt="Tech Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=800&lines=🔥+Powered+by+React+%7C+Node.js+%7C+Python+%7C+TensorFlow;⚡+Enhanced+with+AI+%7C+Game+Dev;🚀+Deployed+on+Cloud+%7C+Optimized+for+Performance" alt="Tech Animation" />
 </div>
 
 ---
@@ -70,7 +70,7 @@
 
 <!-- Animated Skill Bars -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=600&lines=████████████+AI%2FML+Development+95%25;██████████████+Full+Stack+Web+Dev+90%25;███████████+IoT+%26+Embedded+Systems+85%25;████████████+Game+Development+80%25;█████████████+Blockchain+%26+Web3+88%25" alt="Skill Bars" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=600&lines=████████████+AI%2FML+Development+95%25;██████████████+Full+Stack+Web+Dev+90%25;████████████+Game+Development+80%25;█████████████+Cloud+%26+DevOps+85%25" alt="Skill Bars" />
 </div>
 
 <!-- Enhanced Education & Personal Info with Icons -->
@@ -169,7 +169,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3178C6" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6" alt="CSS3"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=000000" alt="Next.js"/>
@@ -178,7 +177,6 @@
 ### 🏗 Backend Development
 <div align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=000000" alt="Express.js"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=FFCA28" alt="Firebase"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1" alt="MySQL"/>
@@ -203,31 +201,14 @@
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white&labelColor=F5792A" alt="Blender"/>
 </div>
 
-### 🔗 Blockchain & Web3
-<div align="center">
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white&labelColor=363636" alt="Solidity"/>
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=3C3C3D" alt="Ethereum"/>
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white&labelColor=F16822" alt="Web3.js"/>
-  <img src="https://img.shields.io/badge/Hardhat-F7DF1E?style=for-the-badge&logo=hardhat&logoColor=black&labelColor=F7DF1E" alt="Hardhat"/>
-  <img src="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white&labelColor=F6851B" alt="MetaMask"/>
-</div>
-
-### 🌱 IoT & Hardware
-<div align="center">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white&labelColor=00979D" alt="Arduino"/>
-  <img src="https://img.shields.io/badge/RaspberryPi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white&labelColor=C51A4A" alt="Raspberry Pi"/>
-  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white&labelColor=000000" alt="ESP32"/>
-  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white&labelColor=660066" alt="MQTT"/>
-</div>
-
 ### 🔧 DevOps & Cloud
 <div align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED" alt="Docker"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=2088FF" alt="GitHub Actions"/>
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=4285F4" alt="Google Cloud"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=FF9900" alt="AWS"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Vercel"/>
 </div>
+
 <!-- Matrix Rain Effect -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=12&duration=1000&pause=100&color=00FF00&center=true&vCenter=true&random=true&width=1000&height=50&lines=01001000+01100101+01101100+01101100+01101111+00100000+01010111+01101111+01110010+01101100+01100100;01000001+01001001+00100000+01001001+01101110+01101110+01101111+01110110+01100001+01110100+01101001+01101111+01101110;01000100+01101001+01100111+01101001+01110100+01100001+01101100+00100000+01010100+01110010+01100001+01101110+01110011;01000101+01101110+01100111+01101001+01101110+01100101+01100101+01110010+01101001+01101110+01100111+00100000+01000110" alt="Matrix Effect" />
@@ -252,7 +233,6 @@
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit-jha98&layout=compact&theme=tokyonight&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Amit-jha98&theme=tokyonight&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="Wakatime Stats" />
 </div>
 
 ---
@@ -316,11 +296,13 @@
 </div>
 
 ---
+
 <!-- Additional GIFs for More Visual Appeal -->
 <div align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="280" height="140" alt="AI GIF"/>
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="280" height="140" alt="Code GIF"/>
 </div>
+
 <!-- Enhanced Animated Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&text=Thanks%20for%20Visiting%20My%20Digital%20Universe!&fontSize=24&fontAlign=50&fontAlignY=35&desc=Let's%20connect%20and%20build%20something%20extraordinary%20together!%20🚀&descAlign=50&descAlignY=60&animation=twinkling" alt="Footer"/>
