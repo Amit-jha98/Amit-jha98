@@ -19,12 +19,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" height="210" alt="Developer GIF"/>
 </div>
 
-<!-- Additional GIFs for More Visual Appeal -->
-<div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="280" height="140" alt="AI GIF"/>
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="280" height="140" alt="Code GIF"/>
-</div>
-
 <!-- Animated Snake with GitHub Contributions -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
@@ -322,7 +316,11 @@
 </div>
 
 ---
-
+<!-- Additional GIFs for More Visual Appeal -->
+<div align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="280" height="140" alt="AI GIF"/>
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="280" height="140" alt="Code GIF"/>
+</div>
 <!-- Enhanced Animated Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&text=Thanks%20for%20Visiting%20My%20Digital%20Universe!&fontSize=24&fontAlign=50&fontAlignY=35&desc=Let's%20connect%20and%20build%20something%20extraordinary%20together!%20🚀&descAlign=50&descAlignY=60&animation=twinkling" alt="Footer"/>
