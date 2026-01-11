@@ -1,314 +1,231 @@
-<!-- Enhanced Animated Header with Matrix Effect -->
+<!-- Professional Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Welcome%20to%20My%20Digital%20Universe&fontSize=35&fontAlign=50&fontAlignY=35&desc=Where%20Innovation%20Meets%20Passion%20%7C%20AI%20%2B%20Nature%20%2B%20Gaming&descAlign=50&descAlignY=55&animation=fadeIn" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Amit%20Jha&fontSize=50&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20Game%20AI%20Specialist&descAlign=50&descAlignY=55&animation=fadeIn" alt="Header"/>
 </div>
 
-<!-- Enhanced Typing Animation with Glitch Effect -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=800&color=2196F3&center=true&vCenter=true&multiline=true&random=false&width=900&height=200&lines=👋+Hi%2C+I'm+Amit+Jha+%40Amit-jha98;💻+B.Tech+CSE+%7C+Full+Stack+Developer;🤖+AI%2FML+Engineer;🎮+Game+AI+Developer;🚀+Building+the+Future+with+Code;✨+Transforming+Ideas+into+Reality!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=B.Tech+Computer+Science+Engineering+%7C+3rd+Year;AI%2FML+Engineer+%7C+Full+Stack+Developer;Crafting+Intelligent+Solutions+with+Code;Bridging+Innovation+%26+Technology" alt="Typing SVG" />
 </div>
 
-<!-- Animated Particles Background -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Line">
-</div>
-
-<!-- Enhanced Coding GIFs with Floating Animation -->
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="420" height="210" alt="Coding GIF"/>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" height="210" alt="Developer GIF"/>
-</div>
-
-<!-- Animated Snake with GitHub Contributions -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Amit-jha98/Amit-jha98/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<!-- Floating Tech Icons Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=800&lines=🔥+Powered+by+React+%7C+Node.js+%7C+Python+%7C+TensorFlow;⚡+Enhanced+with+AI+%7C+Game+Dev;🚀+Deployed+on+Cloud+%7C+Optimized+for+Performance" alt="Tech Animation" />
-</div>
-
----
-
-## 🚀 About Me
-
-<img align="right" alt="Coding GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="380px"/>
-
-<!-- Enhanced ASCII Art with Glowing Effect -->
-```text
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║    ┌─ Welcome to my digital lab! ─┐                      ║
-║    │                              │                      ║
-║    │  🔭 Currently exploring:     │                      ║
-║    │     AgriBERT, ONNX AI bots   │                      ║
-║    │     & Smart Farming IoT      │                      ║
-║    │                              │                      ║
-║    │  🌱 Learning:                │                      ║
-║    │     Unreal Engine AI bots    │                      ║
-║    │     Web3.js, Solidity        │                      ║
-║    │     Cloud-based ML pipelines │                      ║
-║    │                              │                      ║
-║    │  💡 Passionate about:        │                      ║
-║    │     AI + Sustainable Tech    │                      ║
-║    │     Embedded IoT Automation  │                      ║
-║    │     Game AI & Smart Sensors  │                      ║
-║    │                              │                      ║
-║    │  🎯 Goal:                    │                      ║
-║    │     Bridge AI, Nature & Games│                      ║
-║    │     into practical solutions │                      ║
-║    └──────────────────────────────┘                      ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-<!-- Multi-Color Animated Profile Stats -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=600&color=00D4FF&center=true&vCenter=true&random=false&width=900&lines=✨+B.Tech+Computer+Science+Engineer+%7C+Innovation+Enthusiast;🎓+Government+Engineering+College+Madhubani+%7C+Bihar+Pride;🏛️+Bihar+Engineering+University+%7C+Academic+Excellence;🌍+Building+Tomorrow's+Solutions+with+Cutting-Edge+Tech;💡+Innovation+%2B+Sustainability+%2B+Gaming+%3D+Future;🚀+Let's+Create+Something+Extraordinary+Together!" alt="Animated Description" />
-</div>
-
-<!-- Animated Skill Bars -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=600&lines=████████████+AI%2FML+Development+95%25;██████████████+Full+Stack+Web+Dev+90%25;████████████+Game+Development+80%25;█████████████+Cloud+%26+DevOps+85%25" alt="Skill Bars" />
-</div>
-
-<!-- Enhanced Education & Personal Info with Icons -->
-<div align="left">
-  <h3>🎓 Education & Background:</h3>
-  <ul>
-    <li>🎯 <strong>Degree:</strong> Bachelor of Technology (B.Tech) in Computer Science Engineering</li>
-    <li>🏛️ <strong>Institution:</strong> Government Engineering College Madhubani</li>
-    <li>🌟 <strong>University:</strong> Bihar Engineering University</li>
-    <li>📍 <strong>Location:</strong> Madhubani, Bihar, India</li>
-    <li>🎖️ <strong>Status:</strong> Second Year Engineering Student</li>
-  </ul>
   
-  <h3>🎯 What Drives Me:</h3>
-  <ul>
-    <li>🔬 <strong>Research Focus:</strong> AgriBERT, ONNX AI models, and smart farming IoT solutions</li>
-    <li>🎮 <strong>Game Development:</strong> Unreal Engine AI bots and intelligent game mechanics</li>
-    <li>🌍 <strong>Mission:</strong> Creating technology that bridges AI, nature, and gaming into practical solutions</li>
-    <li>💼 <strong>Collaboration:</strong> Always excited to team up on groundbreaking projects that make a difference</li>
-    <li>🎪 <strong>Fun Fact:</strong> I believe the future is where AI meets nature and gaming - and I'm here to make it happen!</li>
-    <li>🌟 <strong>Vision:</strong> Building a world where technology enhances human life, environmental health, and entertainment</li>
-  </ul>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-jha-5897102b1)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumitkr95078@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-amit-jha98s-projects.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amit-jha98)
 
-<!-- Animated Trophy Collection -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Amit-jha98&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7" alt="GitHub Trophies"/>
-</div>
-
-<!-- Pulsing Divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Line">
 </div>
 
 ---
 
-## 🎯 Current Focus & Projects
+## 👨‍💻 About Me
+
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif"/>
+
+I am a **Third-Year B.Tech Computer Science Engineering** student at **Government Engineering College Madhubani** (Bihar Engineering University), specializing in building scalable AI-powered solutions and production-ready full-stack applications.
+
+| | |
+|---|---|
+| 🎓 | **Pre-final Year Student** with hands-on experience in AI/ML & Full Stack Development |
+| 🔬 | Currently developing **AgriBERT** — an NLP model for agricultural domain analysis |
+| 🌾 | Building **Smart Farming IoT Solutions** for sustainable agriculture |
+| 🎮 | Creating **Intelligent Game AI** systems using Unreal Engine & Unity |
+| 🚀 | Focused on **AI + Sustainability + Interactive Systems** convergence |
+| 💼 | Open to **internships**, **freelance projects**, and **collaborative research** |
+
+---
+
+## 🎯 Areas of Expertise
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=700&lines=🔥+Current+Projects+%26+Innovations;🚀+Innovation+Hub+%7C+R%26D+Lab;💡+Work+in+Progress+%7C+Coming+Soon;⚡+Breakthrough+Technologies" alt="Projects Header" />
-</div>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150" height="150">
-        <br><br>
-        <strong>🤖 AI/ML & ONNX</strong>
-        <br><br>
-        <div align="center">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&duration=2000&pause=800&color=FF6B6B&center=true&vCenter=true&random=false&width=280&lines=AgriBERT+Development;ONNX+AI+Bot+Framework;Smart+Farming+IoT+Solutions;ML+Pipeline+Optimization;Computer+Vision+Models;Neural+Network+Training" alt="AI Projects" />
-        </div>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="150" height="150">
-        <br><br>
-        <strong>🎮 Game AI & Web3</strong>
-        <br><br>
-        <div align="center">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&duration=2000&pause=800&color=00D4FF&center=true&vCenter=true&random=false&width=280&lines=Unreal+Engine+AI+Bots;Web3.js+Development;Solidity+Smart+Contracts;Game+AI+Systems;DeFi+Applications;NFT+Marketplaces" alt="Game & Web3 Projects" />
-        </div>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="150" height="150">
-        <br><br>
-        <strong>🌱 IoT & Automation</strong>
-        <br><br>
-        <div align="center">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&duration=2000&pause=800&color=00FF88&center=true&vCenter=true&random=false&width=280&lines=Smart+Sensor+Networks;Embedded+IoT+Systems;Home+Automation;Cloud+ML+Pipelines;Edge+Computing;Real-time+Analytics" alt="IoT Projects" />
-        </div>
-      </td>
-    </tr>
-  </table>
+| **Domain** | **Technologies & Proficiencies** |
+|:----------:|:--------------------------------|
+| **Artificial Intelligence & ML** | Python • TensorFlow • PyTorch • ONNX • OpenCV • Computer Vision • NLP • Transformers • Scikit-Learn |
+| **Full Stack Development** | React • Next.js • Node.js • Express.js • TypeScript • MongoDB • MySQL • Firebase • REST APIs |
+| **Game Development & AI** | Unreal Engine 5 • Unity • C++ • C# • Behavioral AI • Procedural Generation • Blender |
+| **Blockchain & Web3** | Solidity • Web3.js • Ethereum • Smart Contracts • DeFi Protocols |
+| **IoT & Edge Computing** | Arduino • Raspberry Pi • Sensor Networks • MQTT • Edge ML Deployment |
+| **DevOps & Infrastructure** | Docker • GitHub Actions • Google Cloud Platform • Vercel • CI/CD Pipelines |
+
 </div>
 
 ---
 
-## 🛠 Tech Stack & Tools
+## 🚀 Featured Projects
+
+### 🌾 [KrishiSetu — Smart Agriculture Platform](https://github.com/Amit-jha98/KrishiSetu)
+> **Production-Ready Agricultural Technology Solution**
+
+**Technology Stack:** `Next.js 14` `MongoDB` `NextAuth.js` `Google OAuth` `Tailwind CSS`
+
+| Feature | Description |
+|---------|-------------|
+| 🔐 **Secure Authentication** | Multi-provider OAuth integration with session management |
+| 📊 **Real-time Analytics** | Crop management dashboard with weather API integration |
+| 🌐 **Optimized Architecture** | Single-server Next.js API routes for reduced latency |
+| 📱 **Responsive Design** | Mobile-first UI/UX with Tailwind CSS |
+| 👥 **Community Features** | Farmer forum and agricultural resource marketplace |
+
+---
+
+### 🤖 [AI-Powered GNSS Prediction System](https://github.com/Amit-jha98/intro_tech_view)
+> **Research-Grade Machine Learning for Satellite Positioning**
+
+**Technology Stack:** `Python` `PyTorch` `TensorFlow` `Transformers` `Statistical Modeling`
+
+| Achievement | Details |
+|-------------|---------|
+| 🧠 **Hybrid Architecture** | Physics-Informed Transformers (PIT) + Neural Diffusion Models (NDM) |
+| 📈 **Multi-Horizon Forecasting** | Predictions across 8 time horizons (1h to 96h) |
+| 🔬 **Uncertainty Quantification** | CRPS-based calibration and confidence intervals |
+| ⚡ **Optimized Training** | 120 epochs in 2-3 hours on consumer hardware |
+| 📊 **Comprehensive Evaluation** | MAE, RMSE, MAPE with per-satellite component analysis |
+
+---
+
+### 🎮 [Rocky-Pocky — Gesture-Based AI Game](https://github.com/Amit-jha98/Rock-paper-Scissors)
+> **Real-Time Computer Vision Application**
+
+**Technology Stack:** `Python` `Flask` `OpenCV` `MediaPipe` `JavaScript` `HTML5/CSS3`
+
+| Component | Implementation |
+|-----------|----------------|
+| 👋 **Hand Tracking** | 21-point MediaPipe landmark detection |
+| 🎯 **Gesture Recognition** | Euclidean distance-based classification |
+| ⚡ **Real-time Processing** | Low-latency frame analysis with OpenCV |
+| 🌐 **Web Interface** | Cross-browser compatible Flask application |
+
+---
+
+### 🔬 [NLP Research & Toolkit](https://github.com/Amit-jha98/NLP)
+> **Comprehensive Natural Language Processing Implementation**
+
+**Technology Stack:** `Python` `NLTK` `spaCy` `Transformers` `BERT` `LDA`
+
+**Implementations:** RNN • LSTM • Bidirectional LSTM • Transformer Architectures • Topic Modeling (LDA, NMF, BERTopic) • Named Entity Recognition • Text Classification • Question Answering Systems
+
+---
+
+### 🌐 [InnoTech Space — Technology Innovation Hub](https://github.com/Amit-jha98/InnoTech-Space)
+> **Modern Web Application with Optimized Performance**
+
+**Technology Stack:** `Next.js 14` `React` `App Router` `Responsive Design`
+
+---
+
+## 📊 Development Metrics
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=1000&color=2196F3&center=true&vCenter=true&random=false&width=600&lines=⚡+Tech+Arsenal+%26+Weapons;🔧+Tools+%26+Skills+Mastery;💻+My+Digital+Toolkit;🚀+Technology+Stack" alt="Tech Stack Header" />
-</div>
-
-<!-- Enhanced Animated Skill Icons -->
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,firebase,express,python,tensorflow,pytorch,opencv,solidity,ethereum,arduino,raspberrypi,docker,gcp,github,unity,unreal,cpp,cs,java,mongodb,mysql,redis&perline=9&theme=dark" alt="Tech Stack"/>
-</div>
-
-<!-- Animated Tech Categories -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=gradient&center=true&vCenter=true&random=false&width=800&lines=🖥️+Frontend+%7C+Backend+%7C+Full+Stack;🤖+AI%2FML+%7C+Deep+Learning+%7C+Computer+Vision;🎮+Game+Dev+%7C+Unreal+%7C+Unity;🔗+Blockchain+%7C+Web3+%7C+Smart+Contracts;🌱+IoT+%7C+Embedded+%7C+Hardware;☁️+Cloud+%7C+DevOps+%7C+Deployment" alt="Tech Categories" />
-</div>
-
-### 🖥 Frontend Development
-<div align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=000000" alt="Next.js"/>
-</div>
-
-### 🏗 Backend Development
-<div align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=FFCA28" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1" alt="MySQL"/>
-</div>
-
-### 🤖 AI/ML & Data Science
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB" alt="Python"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=FF6F00" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=EE4C2C" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white&labelColor=005CED" alt="ONNX"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=5C3EE8" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=F7931E" alt="Scikit-Learn"/>
-</div>
-
-### 🎮 Game Development
-<div align="center">
-  <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=313131" alt="Unreal Engine"/>
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white&labelColor=100000" alt="Unity"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=00599C" alt="C++"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=239120" alt="C#"/>
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white&labelColor=F5792A" alt="Blender"/>
-</div>
-
-### 🔧 DevOps & Cloud
-<div align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED" alt="Docker"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=2088FF" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=4285F4" alt="Google Cloud"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Vercel"/>
-</div>
-
-<!-- Matrix Rain Effect -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=12&duration=1000&pause=100&color=00FF00&center=true&vCenter=true&random=true&width=1000&height=50&lines=01001000+01100101+01101100+01101100+01101111+00100000+01010111+01101111+01110010+01101100+01100100;01000001+01001001+00100000+01001001+01101110+01101110+01101111+01110110+01100001+01110100+01101001+01101111+01101110;01000100+01101001+01100111+01101001+01110100+01100001+01101100+00100000+01010100+01110010+01100001+01101110+01110011;01000101+01101110+01100111+01101001+01101110+01100101+01100101+01110010+01101001+01101110+01100111+00100000+01000110" alt="Matrix Effect" />
-</div>
-
-## 📊 GitHub Stats & Activity
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=700&lines=📈+GitHub+Analytics+%26+Metrics;🔥+Contribution+Stats+%26+Activity;📊+Code+Performance+Dashboard;⚡+Developer+Insights+%26+Trends" alt="Stats Header" />
-</div>
-
-<!-- Enhanced Activity Graph with Custom Styling -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amit-jha98&theme=tokyo-night&hide_border=true&area=true&custom_title=🚀%20Amit's%20Contribution%20Journey&bg_color=0D1117&color=58A6FF&line=58A6FF&point=F85D7F&area_color=58A6FF" alt="Contribution Graph"/>
-</div>
-
-<!-- Animated Stats Cards with Enhanced Design -->
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Amit-jha98&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117" alt="Amit's GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Amit-jha98&theme=tokyonight&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=F85D7F&currStreakLabel=58A6FF&background=0D1117" alt="GitHub Streak Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Amit-jha98&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Amit-jha98&theme=tokyonight&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=F85D7F&currStreakLabel=58A6FF&background=0D1117" alt="Streak Stats" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit-jha98&layout=compact&theme=tokyonight&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit-jha98&layout=compact&theme=tokyonight&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=Amit-jha98&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15" alt="Trophies"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amit-jha98&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity&bg_color=0D1117&color=58A6FF&line=58A6FF&point=F85D7F" alt="Activity Graph"/>
 </div>
 
 ---
 
-## 🏆 GitHub Achievements & Milestones
+## 🛠️ Technology Stack
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amit-jha98&theme=tokyonight" alt="Profile Summary"/>
-</div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amit-jha98&theme=tokyonight" alt="Repos per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Amit-jha98&theme=tokyonight" alt="Most Commit Language"/>
-</div>
+### Programming Languages
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,cs,java,html,css,solidity&theme=dark" alt="Languages"/>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Amit-jha98&theme=tokyonight" alt="Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Amit-jha98&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
-</div>
+### Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,tensorflow,pytorch,opencv&theme=dark" alt="Frameworks"/>
 
----
+### Tools & Infrastructure
+<img src="https://skillicons.dev/icons?i=git,github,docker,gcp,vercel,firebase,mongodb,mysql,postgres&theme=dark" alt="Tools"/>
 
-## 🤝 Let's Connect & Collaborate
+### Game Development & 3D Graphics
+<img src="https://skillicons.dev/icons?i=unreal,unity,blender&theme=dark" alt="Game Dev"/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=800&lines=🤝+Ready+to+Collaborate+on+Amazing+Projects%3F;✨+Let's+Build+the+Future+Together!;🚀+Connect+with+Me+for+Opportunities;💡+Open+for+Freelance+%26+Full-time+Roles;🌟+Always+Excited+for+New+Challenges" alt="Connect Animation" />
-</div>
-
-<!-- Enhanced Social Links with Animated Effects -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/amit-jha-5897102b1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
-  </a>
-  <a href="mailto:sumitkr95078@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" />
-  </a>
-  <a href="https://github.com/Amit-jha98" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
-  </a>
-  <a href="https://portfolio-amit-jha98s-projects.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722" alt="Portfolio" />
-  </a>
-  <a href="https://twitter.com/amit_jha98" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter" />
-  </a>
 </div>
 
 ---
 
-<!-- Enhanced Animated Quote Section -->
+## 🎓 Education
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=gradient&center=true&vCenter=true&random=false&width=900&lines=💡+%22Innovation+is+the+bridge+between+AI%2C+Nature+%26+Gaming%22;🌟+%22Technology+%2B+Sustainability+%2B+Fun+%3D+Better+Future%22;🤖+%22Where+AI+meets+Nature+and+Games%2C+magic+happens%22;🚀+%22Building+practical+solutions+with+purpose+and+passion%22;✨+%22Code+with+passion%2C+create+with+impact%2C+innovate+with+purpose%22;🎓+%22Engineering+the+future%2C+one+line+of+code+at+a+time%22;🔥+%22From+Bihar+to+the+World+-+Making+Dreams+Reality%22" alt="Animated Quotes" />
+
+| | |
+|:---:|:---|
+| 🎓 | **Bachelor of Technology (B.Tech) in Computer Science Engineering** |
+| 🏛️ | Government Engineering College Madhubani |
+| 📍 | Bihar Engineering University, India |
+| 📅 | **Third Year** (Expected Graduation: 2027) |
+| 🎯 | **Specialization:** Artificial Intelligence, Machine Learning, Full Stack Development |
+
 </div>
 
-<!-- Enhanced Profile Views and Social Stats -->
+---
+
+## 🔭 Current Focus Areas
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| 🌾 **AgriBERT** | Domain-specific NLP model for agricultural text analysis | In Development |
+| 🤖 **ONNX AI Framework** | Optimized inference pipeline for production deployment | Active |
+| 📡 **Smart Farming IoT** | Edge computing solutions with sensor networks | Research Phase |
+| 🎮 **Unreal Engine AI Bots** | Intelligent NPC behavior and procedural systems | Ongoing |
+| ⛓️ **DeFi Applications** | Smart contract development on Ethereum | Learning |
+
+---
+
+## 🤝 Collaboration Opportunities
+
+<div align="center">
+
+I am actively seeking opportunities to collaborate on impactful projects in:
+
+| Domain | Interest Areas |
+|--------|----------------|
+| 🤖 **AI/ML Applications** | Agriculture Tech, Healthcare Informatics, Intelligent Gaming |
+| 🌱 **Sustainable Technology** | Smart Farming, Environmental Monitoring, Green Tech |
+| 🎮 **Game AI Development** | Behavioral Systems, Procedural Content Generation |
+| 🌐 **Full Stack Applications** | Scalable Web Solutions, API Development |
+| ⛓️ **Blockchain/Web3** | DeFi, Smart Contracts, Decentralized Applications |
+
+</div>
+
+---
+
+## 📬 Contact Information
+
+<div align="center">
+
+| Platform | Contact |
+|:--------:|:--------|
+| 📧 **Email** | [sumitkr95078@gmail.com](mailto:sumitkr95078@gmail.com) |
+| 💼 **LinkedIn** | [linkedin.com/in/amit-jha-5897102b1](https://www.linkedin.com/in/amit-jha-5897102b1) |
+| 🌐 **Portfolio** | [portfolio-amit-jha98s-projects.vercel.app](https://portfolio-amit-jha98s-projects.vercel.app/) |
+| 💻 **GitHub** | [github.com/Amit-jha98](https://github.com/Amit-jha98) |
+
+</div>
+
+---
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Amit-jha98&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Amit-jha98?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/Amit-jha98?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%2B%20IoT%20%2B%20Gaming-red?style=for-the-badge" alt="Focus Areas" />
+  <img src="https://img.shields.io/github/followers/Amit-jha98?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
+  <img src="https://img.shields.io/badge/Year-3rd%20Year%20B.Tech-orange?style=for-the-badge" alt="Year" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=for-the-badge" alt="Status" />
 </div>
 
 ---
 
-<!-- Additional GIFs for More Visual Appeal -->
 <div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="280" height="140" alt="AI GIF"/>
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="280" height="140" alt="Code GIF"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Engineering+Intelligent+Solutions+for+Real-World+Challenges;Where+Innovation+Meets+Implementation;Building+Tomorrow's+Technology+Today" alt="Footer Quote" />
 </div>
 
-<!-- Enhanced Animated Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&text=Thanks%20for%20Visiting%20My%20Digital%20Universe!&fontSize=24&fontAlign=50&fontAlignY=35&desc=Let's%20connect%20and%20build%20something%20extraordinary%20together!%20🚀&descAlign=50&descAlignY=60&animation=twinkling" alt="Footer"/>
-</div>
-
-<!-- Enhanced Easter Egg with More Messages -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=12&duration=6000&pause=3000&color=30363D&center=true&vCenter=true&random=false&width=700&lines=👀+You+found+the+hidden+message!+You're+awesome!;🎉+Thanks+for+scrolling+to+the+end+-+You're+a+true+explorer!;🚀+Let's+build+something+amazing+together!;🎓+GEC+Madhubani+Pride+-+Bihar+Engineering+Excellence!;💻+Keep+coding%2C+keep+innovating%2C+keep+dreaming!;🌟+The+best+is+yet+to+come!" alt="Easter Egg" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" alt="Footer Wave"/>
 </div>
