@@ -17,7 +17,7 @@
 ## EDUCATION
 **Bachelor of Technology in Computer Science and Engineering**  
 *Government Engineering College Madhubani, Bihar Engineering University*  
-**August 2023 - May 2027** | **Current CGPA: 7.7/10.0**
+**August 2023 - May 2027** | **Current CGPA: 7.81/10.0**
 
 **Academic Focus:** Machine Learning, Deep Learning, Advanced Statistics, Linear Algebra, Advanced Data Structures & Algorithms, Computer Vision, Optimization Methods
 
