@@ -70,7 +70,7 @@
 
 **Programming & Development:**
 - **Languages:** Python (Advanced), C++, JavaScript/TypeScript, SQL, HTML5/CSS3
-- **Proficiency Level:** 3+ years hands-on development experience with production deployments
+- **Proficiency Level:** 1+ years hands-on development experience with production deployments
 
 **Machine Learning & Data Science:**
 - **Frameworks:** PyTorch, TensorFlow, Scikit-learn, HuggingFace Transformers, ONNX
