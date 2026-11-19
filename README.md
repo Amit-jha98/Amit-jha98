@@ -95,5 +95,3 @@ I'm interested in software engineering, backend development, full-stack engineer
 - **GitHub:** [Amit-jha98](https://github.com/Amit-jha98)
 
 ---
-
-*Some project and platform metrics are reported figures from the respective work. Be prepared to explain the evaluation method, measurement period, and your individual contribution when discussing them.*
