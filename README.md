@@ -2,7 +2,7 @@
 
 **Software Engineer | Full-Stack Development | Applied Machine Learning**
 
-I'm a Computer Science and Engineering student at Government Engineering College, Madhubani, graduating in 2027. I currently work as a Software Engineer at Nextgenix Tech & Media Pvt. Ltd., where I build web applications, backend services, and cloud-based products.
+I'm pursuing a B.Tech in Computer Science and Engineering under Bihar Engineering University (BEU), graduating in 2027. I currently work as a Software Engineer at Nextgenix Tech & Media Pvt. Ltd., where I build web applications, backend services, and cloud-based products.
 
 My experience spans full-stack development, API design, database engineering, cloud deployment, and applied machine learning. I have also led teams at two Smart India Hackathon National Finales, working on problem statements from the Narcotics Control Bureau and ISRO.
 
