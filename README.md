@@ -6,7 +6,7 @@ I'm pursuing a B.Tech in Computer Science and Engineering under Bihar Engineerin
 
 My experience spans full-stack development, API design, database engineering, cloud deployment, and applied machine learning. I have also led teams at two Smart India Hackathon National Finales, working on problem statements from the Narcotics Control Bureau and ISRO.
 
-[LinkedIn](https://www.linkedin.com/in/amit-kumar-jha-5897102b1) · [Email](mailto:sumitkr95078@gmail.com) · [GitHub](https://github.com/Amit-jha98)
+[LinkedIn](https://www.linkedin.com/in/amit-kumar-jha-5897102b1) · [Email](mailto:sumitkr95078@gmail.com) · [GitHub](https://github.com/Amit-jha98) · [Portfolio](https://amit.nextgenix.in/) 
 
 ---
 
@@ -91,6 +91,7 @@ Government Engineering College, Madhubani · Bihar Engineering University
 I'm interested in software engineering, backend development, full-stack engineering, and applied machine learning opportunities, including internships and full-time roles.
 
 - **Email:** [sumitkr95078@gmail.com](mailto:sumitkr95078@gmail.com)
+- [Portfolio](https://amit.nextgenix.in/)
 - **LinkedIn:** [amit-kumar-jha-5897102b1](https://www.linkedin.com/in/amit-kumar-jha-5897102b1)
 - **GitHub:** [Amit-jha98](https://github.com/Amit-jha98)
 
