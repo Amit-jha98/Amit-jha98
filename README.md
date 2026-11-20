@@ -91,7 +91,7 @@ Government Engineering College, Madhubani · Bihar Engineering University
 I'm interested in software engineering, backend development, full-stack engineering, and applied machine learning opportunities, including internships and full-time roles.
 
 - **Email:** [sumitkr95078@gmail.com](mailto:sumitkr95078@gmail.com)
-- [Portfolio](https://amit.nextgenix.in/)
+- **Portfolio:** [Portfolio](https://amit.nextgenix.in/)
 - **LinkedIn:** [amit-kumar-jha-5897102b1](https://www.linkedin.com/in/amit-kumar-jha-5897102b1)
 - **GitHub:** [Amit-jha98](https://github.com/Amit-jha98)
 
